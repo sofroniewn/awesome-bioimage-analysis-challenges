@@ -15,6 +15,7 @@ This is list currently organized by scientific domain.
   - [Cell Biology](#cell-biology)
   - [CryoEM](#cryoem)
   - [Neuroscience](#neuroscience)
+  - [Pathology](#pathology)
 
 ---
 
@@ -22,7 +23,8 @@ This is list currently organized by scientific domain.
 
 *Challenges for cell biology data*
 
--[ISBI Cell Tracking](http://celltrackingchallenge.net/) - Segmenting and tracking moving cells in time-lapse video sequences.
+- [ISBI Cell Tracking](http://celltrackingchallenge.net/) - Segment and track moving cells in time-lapse video sequences.
+- [Kaggle Data Science Bowl 2018](https://www.kaggle.com/c/data-science-bowl-2018) - Segement nuclei across varied conditions.
 
 ---
 
@@ -30,7 +32,7 @@ This is list currently organized by scientific domain.
 
 *Challenges for Cryo EM and Cryo ET data*
 
--[SHREC 2021](https://www.shrec.net/cryo-et/) - Localization and classification of biological particles in simulated cryo-electron tomogram volumes.
+- [SHREC 2021](https://www.shrec.net/cryo-et/) - Localization and classification of biological particles in simulated cryo-electron tomogram volumes.
 
 ---
 
@@ -38,5 +40,12 @@ This is list currently organized by scientific domain.
 
 *Challenges for neuroscience data*
 
--[Neurofinder](http://neurofinder.codeneuro.org/) - Cell segmentation for 2-photon caclium imaging in mice with manually labeled ground truth.
+- [Neurofinder](http://neurofinder.codeneuro.org/) - Cell segmentation for 2-photon caclium imaging in mice with manually labeled ground truth.
 
+---
+
+## Pathology
+
+*Challenges for pathology data*
+
+- [Camelyon17](https://camelyon17.grand-challenge.org/) - Automated detection and classification of breast cancer metastases in whole-slide histology images

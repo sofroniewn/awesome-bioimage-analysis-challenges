@@ -32,7 +32,7 @@ This is list currently organized by scientific domain.
 
 *Challenges for Cryo EM and Cryo ET data*
 
-- [SHREC 2021](https://www.shrec.net/cryo-et/) - Localization and classification of biological particles in simulated cryo-electron tomogram volumes.
+- [SHREC 2021](https://www.shrec.net/cryo-et/) - Localization and classification of biological particles in simulated cryo-electron tomograms.
 
 ---
 

@@ -25,6 +25,7 @@ This is list currently organized by scientific domain.
 
 - [ISBI Cell Tracking](http://celltrackingchallenge.net/) - Segment and track moving cells in time-lapse video sequences.
 - [Kaggle Data Science Bowl 2018](https://www.kaggle.com/c/data-science-bowl-2018) - Segement nuclei across varied conditions.
+- [Kaggle HPA](https://www.kaggle.com/c/human-protein-atlas-image-classification) - Classify mixed patterns of proteins in microscope images from the human protein atlas.
 
 ---
 

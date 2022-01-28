@@ -29,12 +29,12 @@ This is list currently organized by scientific domain.
 
 ---
 
-## CryoEM
+## Electron microscopy
 
 *Challenges for Cryo EM and Cryo ET data*
 
 - [SHREC 2021](https://www.shrec.net/cryo-et/) - Localization and classification of biological particles in simulated cryo-electron tomograms.
-
+- [MitoEM](https://mitoem.grand-challenge.org/) - Large-scale 3D Mitochondria Instance Segmentation
 ---
 
 ## Neuroscience
